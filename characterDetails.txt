@@ -1,0 +1,12 @@
+Eye color: blue, brown, green, hazel, gray
+Hair color: black, blonde, brown, red, gray, white
+Skin tone: fair, light, medium, olive, tan, dark
+Height: short, average, tall
+Weight: thin, average, muscular, overweight
+Personality: introverted, extroverted, analytical, creative, adventurous, reserved
+Education: high school, some college, bachelor's degree, master's degree, PhD
+Career: artist, writer, engineer, doctor, lawyer, teacher, entrepreneur
+Hobbies: reading, writing, painting, hiking, running, cooking, gaming
+Interests: science, technology, politics, sports, music, travel, fashion
+Relationship status: single, in a relationship, married, divorced, widowed
+Children: none, one, two, three, four or more
