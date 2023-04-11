@@ -14,4 +14,8 @@ Create a new text file with your values
 
 New line after every value, each value and its pair broken up by a colon (':').
 
-Exmaple: Eye-color: blue, red, green
+Exmaple: 
+
+Eye-color: blue, red, green
+
+Hair-color: brown, blonde, white
