@@ -1,5 +1,7 @@
 # Character-Gen-Project
 
+Using the free QT license for LGPLv3 (Lesser General Public License v. 3) https://doc.qt.io/qt-5/lgpl.html
+
 By taking in key-value pairs, it will randomly generate a Character based on values YOU define.
 
 My attempt to create a character generator app with UI using C++ and QT.
